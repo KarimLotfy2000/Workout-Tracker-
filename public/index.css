@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://cdn.quotesgram.com/img/93/45/1865548575-workout-motivation-143.jpg);
+    background-size: 2300px; /* Change this line from cover */
+    
+}
+
+tr{
+font-size: 24px;
+
+}
+th{
+    font-size: 29px;
+    color: rgb(70, 69, 69);
+}
+td{
+    
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(13, 108, 186);
+}
+label{
+ font-size: 24px;
+}
+
